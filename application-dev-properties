@@ -9,5 +9,5 @@ management.endpoints.web.exposure.include=*
 management.endpoint.shutdown.enable=true
 management.endpoint.health.show-details=always
 
-dev.service.msg=Hello I'm default
+dev.service.msg=Hello I'm Dev
 dev.service.version=1.0
